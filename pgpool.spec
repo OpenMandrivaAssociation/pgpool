@@ -34,6 +34,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root,-)
 %{_sysconfdir}/pgpool.conf.sample
 %{_bindir}/pgpool
-%{_mandir}/man8/pgpool.8.bz2
+%{_mandir}/man8/pgpool.*
 
 
