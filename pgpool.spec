@@ -1,6 +1,6 @@
 %define name    pgpool
 %define version 3.4.1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Name: %{name}
 Version: %{version}
