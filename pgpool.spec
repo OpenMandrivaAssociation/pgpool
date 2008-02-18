@@ -5,7 +5,7 @@
 Name: %{name}
 Version: %{version}
 Release: %{release}
-Summary: Pgpool is a connection pooling/replication server for PostgreSQL
+Summary: Connection pooling/replication server for PostgreSQL
 License: BSD
 Group: System/Servers
 URL: http://pgfoundry.org/projects/pgpool
