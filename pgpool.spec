@@ -8,7 +8,7 @@ Release: %{release}
 Summary: Connection pooling/replication server for PostgreSQL
 License: BSD
 Group: System/Servers
-URL: http://pgfoundry.org/projects/pgpool
+URL: https://pgfoundry.org/projects/pgpool
 Source0: http://pgfoundry.org/frs/download.php/1446/%{name}-%{version}.tar.gz
 Buildroot: %{_tmppath}/%{name}-%{version}
 
