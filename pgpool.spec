@@ -12,6 +12,11 @@ URL: https://pgfoundry.org/projects/pgpool
 Source0: http://pgfoundry.org/frs/download.php/1446/%{name}-%{version}.tar.gz
 Buildroot: %{_tmppath}/%{name}-%{version}
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Pgpool is a connection pooling/replication 
 server for PostgreSQL.
